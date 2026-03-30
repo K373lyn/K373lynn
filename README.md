@@ -1,6 +1,4 @@
 💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻
-# Calculadora de Consumo Elétrico
-
 # ⚡ Calculadora de Consumo Elétrico
 
 👩‍💻Oiêê! Este projeto é uma calculadora simples que estima o **consumo mensal de energia elétrica** de um aparelho, usando sua potência em watts e o tempo médio de uso diário.
@@ -51,5 +49,5 @@ print(f"Consumo estimado: {consumo_mensal:.2f} kWh/mês")
 print(f"Custo estimado: R$ {custo_estimado:.2f}/mês")
 
 
-Obrigada por ler até aqui! Até a próxima!
+## 👩‍💻 Obrigada por ler até aqui! Até a próxima!
 💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻
