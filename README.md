@@ -48,6 +48,7 @@ print(f"Aparelho: {aparelho}")
 print(f"Consumo estimado: {consumo_mensal:.2f} kWh/mês")
 print(f"Custo estimado: R$ {custo_estimado:.2f}/mês")
 
+---
 
 ## 👩‍💻 Obrigada por ler até aqui! Até a próxima!
 💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻
